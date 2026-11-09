@@ -466,3 +466,16 @@ Configure your MCP client:
 | `agents/error-catalog.json` | JSON | 9 error categories with retry guidance |
 | `agents/examples/` | Shell | Runnable workflow examples |
 | `skills/` | SKILL.md | Goal-oriented workflow skills for agents |
+
+<!-- UNIVERSAL_JULES_AGENT_PACK_START -->
+## Universal Jules Roles
+
+- **Code Reviewer**: Reviews code changes for style, correctness, and potential bugs. Focuses on code quality.
+- **Minimal Change Engineer**: Implements solutions with the smallest possible footprint. Avoids unnecessary refactoring.
+- **Git Workflow Master**: Ensures correct branching, clear commit messages, and proper pull request management.
+- **Backend Architect**: Designs robust backend systems, databases, and APIs. Focuses on scalability and maintainability.
+- **DevOps Automator**: Creates and maintains deployment pipelines, infrastructure as code, and CI/CD processes.
+- **Reality Checker**: Validates assumptions, checks edge cases, and ensures the proposed solution solves the actual problem.
+- **Test Results Analyzer**: Reviews test output to identify failures, coverage gaps, and areas for improvement.
+- **Performance Benchmarker**: Measures and optimizes code execution speed, memory usage, and overall system performance.
+<!-- UNIVERSAL_JULES_AGENT_PACK_END -->
